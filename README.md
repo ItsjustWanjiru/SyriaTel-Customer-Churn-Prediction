@@ -1,5 +1,8 @@
 # SyriaTel-Customer-Churn-Prediction
 
+![Customer Churn](https://www.cleartouch.in/wp-content/uploads/2022/11/Customer-Churn.png)
+
+
 ## Project Overview
 
 Customer churn, also known as attrition, is a critical concern for businesses, including those in the telecommunications industry. To address this challenge effectively, this project conducts a comprehensive analysis of customer churn, leveraging data analytics and machine learning techniques to develop predictive models and actionable strategies.
