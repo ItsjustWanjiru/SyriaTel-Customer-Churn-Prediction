@@ -102,3 +102,5 @@ Actionable strategies and insights are provided to reduce customer churn and enh
 ## Authors
 
 Sharon Njogu
+
+Find the analysis [here](https://github.com/ItsjustWanjiru/SyriaTel-Customer-Churn-Prediction/blob/main/Customer-Churn-Prediction.ipynb)
