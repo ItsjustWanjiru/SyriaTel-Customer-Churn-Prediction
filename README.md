@@ -29,6 +29,8 @@ Customer churn, also known as attrition, is a critical concern for businesses, i
 
 The project relies on a telecommunications dataset that contains various customer-related features, including customer service calls, charges, and international plan status. This dataset serves as the foundation for the analysis, predictive modeling, and strategy development.
 
+Please note: You can find the necessary definitions to understand the data better [here](https://github.com/ItsjustWanjiru/SyriaTel-Customer-Churn-Prediction/blob/main/Data%20Understanding.ipynb)
+
 ## Project Parts
 
 This project comprises several crucial components:
